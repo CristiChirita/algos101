@@ -5,6 +5,7 @@
 
 => [Explain me  how each sort type is working + complexity] + mergeSort + BST + insertionSort + selection Sort.
 Knuth Shuffle algo + shuffle me a deck card 
+
 3. Fibonacci (it + recurs). Next Step compute fibonacci for very large numbers :P
 4. Implement a linkedList locally.
 
